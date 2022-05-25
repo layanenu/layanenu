@@ -1,6 +1,6 @@
 <b> ✩ Olá! Eu sou Layane Nunes </b>
 
-<b>Front-end Developer Jr | HTML | CSS | Javascript | React </b>
+<b>Full Stack Developer em formação pela Trybe</b>
 
 <div align="center">
   <a href="https://github.com/layanenu">
