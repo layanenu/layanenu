@@ -1,6 +1,6 @@
-<b> ✩ Olá! Eu sou Layane Nunes </b>
+<b> Olá, bem vindo. Eu sou Layane Nunes </b>
 
-<b>Full Stack Developer em formação pela Trybe</b>
+<b>Estudante de desenvolvimento web na Trybe</b>
 
 <div align="center">
   <a href="https://github.com/layanenu">
