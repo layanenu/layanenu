@@ -1,6 +1,4 @@
-<b> Olá, bem vindo. Eu sou Layane Nunes </b>
-
-<b>Estudante de desenvolvimento web na Trybe</b>
+<b> Olá, seja bem-vindo! Sou Layane, estudante de Desenvolvimento Web Full Stack na Trybe </b>
 
 <div align="center">
   <a href="https://github.com/layanenu">
