@@ -5,6 +5,10 @@ Oi! sou Layane Nunes, tenho 25 anos, atualmente moro em Pernambuco.
 Sou estudante de Desenvolvimento Web Full Stack na Trybe.
 
 <b> Tecnologias: </b>
+
+• Front-end: HTML, CSS, Javascript, React, Redux, React Testing Library, Jest, Cypress . <br>
+• Back-end: Node JS, Docker, Typescript, MongoDB, MySQL, Heroku, Mocha, Chai.
+
 </div>
 <div style="display: inline_block"><br>
   
