@@ -1,7 +1,10 @@
 <b> Sobre Mim: </b>
-Oi! sou Layane Nunes, tenho 25 anos, atualmente moro no nordeste brasileiro.
-##
-    
+<br><br>
+Oi! sou Layane Nunes, tenho 25 anos, atualmente moro em Pernambuco.
+<br>
+Sou estudante de Desenvolvimento Web Full Stack na Trybe.
+
+<b> Tecnologias: </b>
 </div>
 <div style="display: inline_block"><br>
   
