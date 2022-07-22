@@ -1,10 +1,5 @@
-<b> Oi! Sou Layane, estudante de Desenvolvimento Web Full Stack na Trybe </b>
-
-<div align="center">
-  <a href="https://github.com/layanenu">
-  <img height="120em" src="https://github-readme-stats.vercel.app/api?username=layanenu&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=layanenu&layout=compact&langs_count=7&theme=dark"/>
-    
+<b> Sobre Mim: </b>
+Oi! sou Layane Nunes, tenho 25 anos, atualmente moro no nordeste brasileiro.
 ##
     
 </div>
