@@ -7,7 +7,6 @@ Sou estudante de Desenvolvimento Web Full Stack na Trybe.
 <b> Tecnologias: </b>
 
 • Front-end: HTML, CSS, Javascript, React, Redux, React Testing Library, Jest, Cypress . <br>
-• Back-end: Node JS, Docker, Typescript, MongoDB, MySQL, Heroku, Mocha, Chai.
 
 ##
 
