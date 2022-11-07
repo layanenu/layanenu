@@ -1,12 +1,15 @@
 <b> Sobre Mim: </b>
 <br><br>
-Olá! Sou Layane, tenho 25 anos, moro em Pernambuco.
+Olá! Sou enfermeira por formação, mas estou em transição de carreira para a área de tecnologia, mais especificamente o desenvolvimento web. Escolhi a Trybe para me guiar nesse processo, instituição de ensino que estudo atualmente.
 <br>
-Sou estudante de Desenvolvimento Web Full Stack na Trybe.
 
-<b> Tecnologias aprendidas até aqui: </b>
+<b> Stacks de desenvolvimento: : </b>
 
-• Front-end: HTML, CSS, Javascript, React, Redux, React Testing Library, Jest, Cypress . <br>
+Git & GitHub |  HTML & CSS | JavaScript | React JS | React Native | Redux | Context API | Jest | React Testing Library | Cypress | Metodologias ágeis: scrum, kanban <br>
+
+<b> Tenho estudado no momento: </b>
+
+Docker | SQL | Node JS | Typescript | MongoDB 
 
 ##
 
