@@ -4,7 +4,7 @@ Olá! Sou Layane, tenho 25 anos, moro em Pernambuco.
 <br>
 Sou estudante de Desenvolvimento Web Full Stack na Trybe.
 
-<b> Tecnologias: </b>
+<b> Tecnologias aprendidas até aqui: </b>
 
 • Front-end: HTML, CSS, Javascript, React, Redux, React Testing Library, Jest, Cypress . <br>
 
