@@ -1,6 +1,6 @@
 <b> Sobre Mim: </b>
 <br><br>
-Olá! Sou enfermeira por formação, mas estou em transição de carreira para a área de tecnologia, mais especificamente o desenvolvimento web. Escolhi a Trybe para me guiar nesse processo, instituição de ensino que estudo atualmente.
+Graduada em Enfermagem, em transição de carreira para a área de Desenvolvimento Web. Escolhi a Trybe para me guiar nesse processo, instituição de ensino que estudo atualmente.
 <br>
 
 <b> Stacks de desenvolvimento: : </b>
