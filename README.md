@@ -1,6 +1,6 @@
 <b> Sobre Mim: </b>
 <br><br>
-Graduada em Enfermagem, em transição de carreira para a área de Desenvolvimento Web. Escolhi a Trybe para me guiar nesse processo, instituição de ensino que estudo atualmente.
+✨ Formada em Desenvolvimento Front-end pela Trybe, em busca de uma oportunidade de atuação na área da programação. Graduada em Enfermagem, com experiência profissional nessa área.
 <br>
 
 <b> Stacks de desenvolvimento: : </b>
