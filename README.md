@@ -1,6 +1,6 @@
 <b> Sobre Mim: </b>
 <br><br>
-✨ Formada em Desenvolvimento Front-end pela Trybe, em busca de uma oportunidade de atuação na área da programação. Graduada em Enfermagem, com experiência profissional nessa área.
+✨ Formada em Desenvolvimento Front-end pela Trybe, em processo de conclusão do módulo de Back-end, em busca de uma oportunidade de atuação na área da programação. Graduada em Enfermagem, com experiência profissional nessa área.
 <br>
 
 <b> Stacks de desenvolvimento: : </b>
