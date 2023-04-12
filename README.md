@@ -1,15 +1,11 @@
 <strong>:wavy_dash: Sobre mim</strong>
 <br><br>
-✨ Formada em Desenvolvimento Front-end pela Trybe, em processo de conclusão do módulo de Back-end, em busca de uma oportunidade de atuação na área da programação. Graduada em Enfermagem, com experiência profissional nessa área.
+✨ Formada em Desenvolvimento Web Full Stack pela Trybe, em busca de uma oportunidade de atuação na área da programação. Graduada em Enfermagem, com experiência profissional nessa área.
 <br>
 
 <strong>:wavy_dash: Stacks de desenvolvimento</strong>
 
-Git & GitHub |  HTML & CSS | JavaScript | React JS | React Native | Redux | Context API | Jest | React Testing Library | Cypress | Metodologias ágeis: scrum, kanban <br>
-
-<strong>:wavy_dash: Tenho estudado no momento</strong>
-
-Docker | SQL | Node JS | Typescript | MongoDB 
+Git & GitHub |  HTML & CSS | JavaScript | React JS | React Native | Redux | Context API | Jest | React Testing Library | Cypress | Metodologias ágeis: scrum, kanban | Docker | SQL | Node JS | Typescript | MongoDB  <br>
 
 <strong>:wavy_dash: Contact me</strong>
   <div>  
