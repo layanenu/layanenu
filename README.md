@@ -5,7 +5,7 @@
 
 <strong>:wavy_dash: Stacks de desenvolvimento</strong>
 
-Git & GitHub |  HTML & CSS | JavaScript | React JS | React Native | Redux | Context API | Jest | React Testing Library | Cypress | Metodologias ágeis: scrum, kanban | Docker | SQL | Node JS | Typescript | MongoDB  <br>
+Git & GitHub |  HTML & CSS | JavaScript | React JS | React Native | Redux | Context API | Jest | React Testing Library | Cypress | Docker | SQL | Node JS | Typescript | MongoDB | Metodologias ágeis: scrum, kanban |  <br>
 
 <strong>:wavy_dash: Contact me</strong>
   <div>  
