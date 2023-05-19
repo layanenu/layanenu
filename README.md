@@ -1,6 +1,6 @@
 <strong>:wavy_dash: Sobre mim</strong>
 <br><br>
-✨ Formada em Desenvolvimento Web Full Stack pela Trybe, em busca de uma oportunidade de atuação na área da programação. Graduada em Enfermagem, com experiência profissional nessa área.
+✨ Formação em Desenvolvimento Web Fullstack pela Trybe, em busca de uma oportunidade de atuação na área da programação. Graduada em Enfermagem, com experiência profissional nessa área.
 <br>
 
 <strong>:wavy_dash: Stacks de desenvolvimento</strong>
