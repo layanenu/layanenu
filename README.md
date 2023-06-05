@@ -1,11 +1,10 @@
 <strong>:wavy_dash: Sobre mim</strong>
 <br><br>
-✨ Formação em Desenvolvimento Web Fullstack pela Trybe, em busca de uma oportunidade de atuação na área da programação. Graduada em Enfermagem, com experiência profissional nessa área.
-<br>
-
-<strong>:wavy_dash: Stacks de desenvolvimento</strong>
-
-Git & GitHub |  HTML & CSS | JavaScript | React JS | React Native | Redux | Context API | Jest | React Testing Library | Cypress | Docker | SQL | Node JS | Typescript | MongoDB | Metodologias ágeis: scrum, kanban |  <br>
+✨ Olá! Sou Desenvolvedora Web Full Stack formada pela Trybe, escola de tecnologia que tem uma formação intensiva de 1500 horas de conteúdo, onde pude realizar cerca de 30 projetos incluindo projetos individuais e em grupo, abrangendo as seguintes tecnologias: 
+<br><br>
+Git | HTML & CSS | JavaScript | React JS | React Native | Redux | Context API | Jest | React Testing Library | Docker | MySQL | Node JS | Typescript | MongoDB. 
+<br><br>
+Estou aberta para conversar sobre quaisquer dúvidas. Obrigada!
 
 <strong>:wavy_dash: Contact me</strong>
   <div>  
