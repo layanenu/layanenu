@@ -1,5 +1,5 @@
 <strong>:wavy_dash: Sobre mim</strong>
-<br><br>
+<br>
 Olá! Sou Desenvolvedora Web Full Stack formada pela Trybe, uma escola de tecnologia que oferece uma formação intensiva em programação e desenvolvimento web. Com mais de 1500 horas de conteúdo, onde pude realizar cerca de 30 projetos individuais e em grupo, abrangendo as seguintes tecnologias:
 <br><br>
 ⚡️ Git | HTML, HTML5 & CSS, CSS3 | JavaScript | React JS | React Native | Redux | Context API | Jest | React Testing Library | Docker | MySQL | MongoDB | Node JS.
